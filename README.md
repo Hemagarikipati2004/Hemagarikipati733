@@ -6,14 +6,14 @@
 
 I'm passionate about Artificial Intelligence, Machine Learning and Data Science. I enjoy learning new technologies and building real-world projects.
 
-### 💻 Technical Skills
-- Python
-- SQL
-- Machine Learning
-- Pandas & NumPy
-- Matplotlib & Seaborn
-- Power BI
-- Microsoft Excel
+## 🛠️ Technologies & Tools
+
+- **Programming Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn, Power BI
+- **Machine Learning:** Scikit-learn
+- **Database:** Oracle SQL
+- **Tools:** VS Code, Git, GitHub, Excel
 
 ### 🚀 Projects
 - SeasonWise – Seasonal Travel Recommendation System
